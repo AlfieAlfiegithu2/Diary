@@ -22,6 +22,18 @@ The app runs with demo data if no secrets are configured.
 
 Copy `.env.example` to `.env.local` when connecting real services.
 
+## Run In The Cloud
+
+This repo includes a GitHub Codespaces devcontainer. Open the repository on GitHub, choose `Code` -> `Codespaces` -> `Create codespace on main`, then run:
+
+```bash
+npm run dev
+```
+
+Codespaces installs dependencies in the cloud with `npm ci`, forwards port `3000`, and keeps `node_modules` plus `.next` off your local machine.
+
+GitHub Actions also verifies `npm ci`, lint, and production build on pushes and pull requests.
+
 ## Open Source
 
 This project is released under the MIT License. You can fork it, learn from it, modify it, and build your own diary experience from it.
