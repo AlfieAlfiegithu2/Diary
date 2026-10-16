@@ -1,2 +1,2 @@
-777b0ee2dfb8efadb665b1ca20b60d7108c568443a5c17affb3c641f7d02d6b8  artex-constellation-1.0.0.tgz
-795a3159dcce9bb14d86999d19b2ce28a2a518b92c907870a0358691eab3e00c  scopeweaver-original-1.0.0.tgz
+9f1cc15b3815a59857104ff920d9948532bfb6b09b2c69e531c8ce9a1f51187a  artex-constellation-1.0.0.tgz
+01f5a1e19774536a8c4635c91d49af9abc5635462b331957d1c7eaa9ddf97f29  scopeweaver-original-1.0.0.tgz
