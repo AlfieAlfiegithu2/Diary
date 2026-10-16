@@ -1,0 +1,32 @@
+[
+  {
+    "edition": "constellation",
+    "command": "artex-constellation",
+    "title": "Artex Constellation",
+    "version": "1.0.0",
+    "source_commit": "801add8f3782f2ae796804ea3c90acf158c0bfdf",
+    "source_sha256": "a5351a793f22832d5d7778ab466a623c1b02559e9c861180cb80c10a6a485c5d",
+    "port": 8787,
+    "proxy_port": 8788,
+    "pinned_integrations": {
+      "CyberStrikeAI": "4ca8b7d33663cd4ba8213f4afa8194ae1928ef16"
+    },
+    "file": "artex-constellation-1.0.0.tgz",
+    "sha256": "777b0ee2dfb8efadb665b1ca20b60d7108c568443a5c17affb3c641f7d02d6b8",
+    "bytes": 27514994
+  },
+  {
+    "edition": "original",
+    "command": "scopeweaver-original",
+    "title": "Original ScopeWeaver",
+    "version": "1.0.0",
+    "source_commit": "75a706d3146f9537ebf2cabe00ca540b6b033a85",
+    "source_sha256": "73b896f8016a48157f034f8bfcdb7300a3dd848b4863cfdc2a51b7f8679fdc75",
+    "port": 8797,
+    "proxy_port": 8798,
+    "pinned_integrations": {},
+    "file": "scopeweaver-original-1.0.0.tgz",
+    "sha256": "795a3159dcce9bb14d86999d19b2ce28a2a518b92c907870a0358691eab3e00c",
+    "bytes": 10800735
+  }
+]
